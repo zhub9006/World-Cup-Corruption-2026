@@ -1,8 +1,8 @@
+import { ChevronLeft } from "lucide-react";
 import Link from "next/link";
 import { notFound } from "next/navigation";
 import { RuleCitation } from "@/components/rule-citation";
 import { getIncidentById } from "@/lib/incidents";
-import { ChevronLeft } from "lucide-react";
 
 export async function generateStaticParams() {
   const { getAllIncidents } = await import("@/lib/incidents");

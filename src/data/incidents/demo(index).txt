@@ -1,0 +1,63 @@
+// this is demo not real data, just for testing and development purposes and new contributors to know how this project works, do not use this data in production, it is just for testing and development purposes
+[
+  {
+    "id": "incident-001",
+    "title": "Ghost Goal — Ball Crossed the Line but Not Given",
+    "summary": "Frank Lampard's shot clearly crossed the goal line but was not awarded. The error led to the introduction of goal-line technology.",
+    "date": "2010-06-27",
+    "severity": "critical",
+    "image": "https://placehold.co/600x400/E53E3E/FFF?text=Ghost+Goal+2010",
+    "teams": {
+      "home": "England",
+      "away": "Germany"
+    }
+  },
+  {
+    "id": "incident-002",
+    "title": "Penalty Won — Obvious Diving Not Caught",
+    "summary": "A clear dive in the box was awarded as a penalty, directly changing the outcome of the knockout match.",
+    "date": "2022-12-09",
+    "severity": "major",
+    "image": "https://placehold.co/600x400/DD6B20/FFF?text=Controversial+Penalty",
+    "teams": {
+      "home": "Argentina",
+      "away": "Netherlands"
+    }
+  },
+  {
+    "id": "incident-003",
+    "title": "Offside Goal — VAR Interference Error",
+    "summary": "A goal was incorrectly ruled out for offside due to improper VAR calibration lines drawn from the wrong frame.",
+    "date": "2022-11-26",
+    "severity": "major",
+    "image": "https://placehold.co/600x400/D69E2E/FFF?text=VAR+Offside+Error",
+    "teams": {
+      "home": "Japan",
+      "away": "Costa Rica"
+    }
+  },
+  {
+    "id": "incident-004",
+    "title": "Handball Not Given — Denied Clear Penalty",
+    "summary": "A clear handball in the box by a defender was missed by both the referee and VAR, denying a clear goalscoring opportunity.",
+    "date": "2018-07-15",
+    "severity": "critical",
+    "image": "https://placehold.co/600x400/38A169/FFF?text=Handball+Missed",
+    "teams": {
+      "home": "France",
+      "away": "Croatia"
+    }
+  },
+  {
+    "id": "incident-005",
+    "title": "Red Card Overturned — Wrongful Dismissal",
+    "summary": "A player received a straight red card for a tackle that was later proven to be a fair challenge with no contact.",
+    "date": "2014-06-13",
+    "severity": "major",
+    "image": "https://placehold.co/600x400/3182CE/FFF?text=Wrongful+Red+Card",
+    "teams": {
+      "home": "Brazil",
+      "away": "Croatia"
+    }
+  }
+]

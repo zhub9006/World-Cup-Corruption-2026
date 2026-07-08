@@ -29,7 +29,7 @@ export default function IncidentsPage() {
         <p className="py-20 text-center text-sm text-muted-foreground">
           No incidents documented yet. Be the first to{" "}
           <a
-            href="https://github.com/user/world-cup-corruption"
+            href="https://github.com/FadyEmad01/World-Cup-Corruption-2026"
             target="_blank"
             rel="noopener noreferrer"
             className="underline underline-offset-2 hover:text-foreground"
