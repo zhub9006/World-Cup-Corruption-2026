@@ -1,0 +1,95 @@
+{
+  "rules": [
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "1. Offside position",
+      "exact_quote": "It is not an offence to be in an offside position. A player is in an offside position if: • any part of the head, body or feet is in the opponents’ half (excluding the halfway line) and • any part of the head, body or feet is nearer to the opponents’ goal line than both the ball and the second-last opponent The hands and arms of all players, including the goalkeepers, are not considered. For the purposes of determining offside, the upper boundary of the arm is in line with the bottom of the armpit. A player is not in an offside position if level with the: • second-last opponent or • last two opponents",
+      "page_number": 109
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "2. Offside offence",
+      "exact_quote": "A player in an offside position at the moment the ball is played or touched* by a team-mate is only penalised on becoming involved in active play by: • interfering with play by playing or touching a ball passed or touched by a team-mate or • interfering with an opponent by: • preventing an opponent from playing or being able to play the ball by clearly obstructing the opponent’s line of vision or • challenging an opponent for the ball or",
+      "page_number": 109
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "2. Offside offence - Point of contact",
+      "exact_quote": "*The first point of contact of the ‘play’ or ‘touch’ of the ball should be used; however, when the ball is thrown by the goalkeeper, the last point of contact should be used.",
+      "page_number": 109
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "2. Offside offence - Interfering with an opponent (continued)",
+      "exact_quote": "• clearly attempting to play a ball which is close when this action impacts on an opponent or • making an obvious action which clearly impacts on the ability of an opponent to play the ball",
+      "page_number": 110
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "2. Offside offence - Gaining an advantage",
+      "exact_quote": "or • gaining an advantage by playing the ball or interfering with an opponent when it has: • rebounded or been deflected off the goalpost, crossbar, match official or an opponent • been deliberately saved by any opponent A player in an offside position receiving the ball from an opponent who deliberately played* the ball, including by deliberate handball, is not considered to have gained an advantage, unless it was a deliberate save by any opponent.",
+      "page_number": 110
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "2. Offside offence - Deliberate play",
+      "exact_quote": "*‘Deliberate play’ (excluding deliberate handball) is when a player has control of the ball with the possibility of: • passing the ball to a team-mate; • gaining possession of the ball; or • clearing the ball (e.g. by kicking or heading it) If the pass, attempt to gain possession or clearance by the player in control of the ball is inaccurate or unsuccessful, this does not negate the fact that the player ‘deliberately played’ the ball. The following criteria should be used, as appropriate, as indicators that a player was in control of the ball and, as a result, can be considered to have ‘deliberately played’ the ball: • The ball travelled from distance and the player had a clear view of it • The ball was not moving quickly • The direction of the ball was not unexpected • The player had time to coordinate their body movement, i.e. it was not a case of instinctive stretching or jumping, or a movement that achieved limited contact/control • A ball moving on the ground is easier to play than a ball in the air",
+      "page_number": 110
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "2. Offside offence - Save",
+      "exact_quote": "A ‘save’ is when a player stops, or attempts to stop, a ball which is going into or very close to the goal with any part of the body except the hands/arms (unless the goalkeeper within the penalty area).",
+      "page_number": 111
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "2. Offside offence - Situations",
+      "exact_quote": "In situations where: • a player moving from, or standing in, an offside position is in the way of an opponent and interferes with the movement of the opponent towards the ball, this is an offside offence if it impacts on the ability of the opponent to play or challenge for the ball; if the player moves into the way of an opponent and impedes the opponent’s progress (e.g. blocks the opponent), the offence should be penalised under Law 12 • a player in an offside position is moving towards the ball with the intention of playing the ball and is fouled before playing or attempting to play the ball, or challenging an opponent for the ball, the foul is penalised as it has occurred before the offside offence • an offence is committed against a player in an offside position who is already playing or attempting to play the ball, or challenging an opponent for the ball, the offside offence is penalised as it has occurred before the foul challenge",
+      "page_number": 111
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "3. No offence",
+      "exact_quote": "There is no offside offence if a player receives the ball directly from: • a goal kick • a throw-in • a corner kick",
+      "page_number": 111
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "4. Offences and sanctions",
+      "exact_quote": "If an offside offence occurs, the referee awards an indirect free kick where the offence occurred, including if it is in the player’s own half of the field of play.",
+      "page_number": 111
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "4. Offences and sanctions - Defending player leaving the field",
+      "exact_quote": "A defending player who leaves the field of play without the referee’s permission will be considered to be on the goal line or touchline for the purposes of offside until the next stoppage in play or until the defending team has played the ball towards the halfway line and it is outside its penalty area. If the player left the field of play deliberately, the player must be cautioned when the ball is next out of play.",
+      "page_number": 111
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "4. Offences and sanctions - Attacking player leaving the field",
+      "exact_quote": "An attacking player may step or stay off the field of play not to be involved in active play. If the player re-enters from the goal line and becomes involved in play before the next stoppage in play or the defending team has played the ball towards the halfway line and it is outside its penalty area, the player will be considered to be positioned on the goal line for the purposes of offside. A player who deliberately leaves the field of play and re-enters without the referee’s permission and is not penalised for offside and gains an advantage must be cautioned.",
+      "page_number": 112
+    },
+    {
+      "law_number": "11",
+      "law_title": "Offside",
+      "specific_rule": "4. Offences and sanctions - Attacking player in the goal",
+      "exact_quote": "If an attacking player remains stationary between the goalposts and inside the goal as the ball enters the goal, a goal must be awarded unless the player commits an offside offence or a Law 12 offence, in which case play is restarted with an indirect or direct free kick.",
+      "page_number": 112
+    }
+  ]
+}
